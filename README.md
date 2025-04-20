@@ -2,6 +2,8 @@
 
 I'm a passionate DevOps Engineer and Cloud Enthusiast focused on building scalable and reliable infrastructure.
 
+Currently building [NextGenTechPicks](https://nextgentechpicks.com) — my tech blog sharing tutorials, product reviews, and real-world lessons!
+
 ## 🚀 Current Focus
 - Building cloud automation scripts (AWS CLI, Python, Terraform)
 - Developing small APIs and backend services
