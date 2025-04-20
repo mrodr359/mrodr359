@@ -8,7 +8,12 @@ I'm a passionate DevOps Engineer and Cloud Enthusiast focused on building scalab
 - Improving my skills in Kubernetes, Docker, and CI/CD pipelines
 
 ## 🛠️ Skills
-- AWS | Terraform | Kubernetes (EKS) | Docker | Python | Bash | Linux
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📂 Projects
 - [personal-projects](https://github.com/mrodr359/personal-projects) – Small cloud automation scripts
