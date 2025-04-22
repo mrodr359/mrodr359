@@ -20,6 +20,7 @@ Currently building [NextGenTechPicks](https://nextgentechpicks.com) — my tech 
 ## 📂 Projects
 - [personal-projects](https://github.com/mrodr359/personal-projects) – Small cloud automation scripts
 - [Ideas Board API](https://github.com/mrodr359/ideas-board) — A Flask + Docker-based REST API to create, retrieve, and delete ideas, packaged for deployment.
+- [Notes Board API](https://github.com/mrodr359/notes-board) – A Flask + Docker-based REST API for managing categorized notes, with full CRUD operations and SQLite persistence.
 - [small-api](https://github.com/mrodr359/small-api) – API project built with Flask/FastAPI
 
 
